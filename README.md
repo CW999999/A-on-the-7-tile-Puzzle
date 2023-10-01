@@ -1,1 +1,1 @@
-# A-on-the-7-tile-Puzzle
+# A* on the 7 tile Puzzle
